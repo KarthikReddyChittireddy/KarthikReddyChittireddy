@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarthikReddyChittireddy
-- 👀 I’m interested in learning new concepts and coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning new concepts and coding related to Software Engineering subject
+- 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 karthikreddychittireddy@my.unt.edu
